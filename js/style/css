@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap');
+
+{
+   font-family: 'Roboto', sans-scrif;
+   margin:0; padding:0;
+   box-sizing:border-box;
+   outline: none; border:none;
+   
+}
+.navbar{
+   background-color: steelblue;
+   font-family: 'Times New Roman', Times, serif;
+   color:white;
+   height: 1.7cm;
+   position: sticky;
+   top: 0
+}
+
+
+
+.navbar2 {
+font-size: 3.0rem;
+color: #fff;
+height: 5rem;
+width: 40cm;
+background-color: blueviolet;
